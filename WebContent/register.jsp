@@ -97,7 +97,7 @@
 							<div class="form-group row">
 					                 <label for="Mobile" class="col-md-4 col-form-label"> Mobile Number:</label>
 								              <div class="col-md-6">
-								                 <input type="number" class="form-control" id="Mail"  name="mobile" placeholder="Mobile Number" required>
+								                 <input type="text" class="form-control" id="Mail"  name="mobile" placeholder="Mobile Number" required>
 								               </div>
 							</div>			
 									
