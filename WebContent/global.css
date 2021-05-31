@@ -1,0 +1,135 @@
+body{
+    padding:70px ;
+    z-index:0;
+    background-image: url("assests/img/back3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: sans-serif;
+  
+}
+
+
+p{
+	padding:25px;
+}
+
+.col-form-label{
+	font-size: 20px;
+	font-weight: 300;
+	color:white;
+}
+
+.nav-item{
+	padding:25px;
+}
+
+.c1{
+    font-size: 20px;
+	font-weight: 300;
+	color:white;
+	text-align: center;	
+}
+.breadcrumb{
+	padding:50px 20px 10px 10px;
+	text-align:justify;
+}
+
+.pad{
+
+  padding: 25px 50px 0px 0px;
+  	
+}
+
+.form-container{
+	border:0px solid #0EF8F7 ;
+	padding:50px 60px;
+	webkit-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+	moz-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+	box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);  	
+}
+
+h4{
+	
+  padding: 25px 50px 75px 100px;
+ 
+	 
+}
+h3{
+	
+	text-shadow: 2px 2px powderblue;
+}
+
+button{
+	align-self: center;
+	}
+.bg{
+  background-color:white;
+  width:100%;
+  height:100vh;
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.navbar-dark {
+     background-color:#108281;
+}
+
+.services .icon-box {
+  text-align: center;
+  border: 1px solid  ;
+  padding: 80px 20px;
+  transition: all ease-in-out 0.3s;
+
+}
+
+.services .icon-box .icon {
+  margin: 0 auto;
+  width: 64px;
+  height: 64px;
+  background:#108281 ;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  transition: 0.3s;
+  color:black;
+}
+
+.services .icon-box .icon i {
+  color: #151515;
+  font-size: 28px;
+  transition: ease-in-out 0.3s;
+}
+
+.services .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.services .icon-box h4 a {
+  color: #151515;
+  transition: ease-in-out 0.3s;
+}
+
+.services .icon-box h4 a:hover {
+  color: #ffc451;
+}
+
+.services .icon-box p {
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.services .icon-box:hover {
+  border-color: #fff;
+  box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+  transform: translateY(-10px);
+}
